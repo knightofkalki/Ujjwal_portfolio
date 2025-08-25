@@ -140,7 +140,7 @@ const Navbar: React.FC<NavbarProps> = ({ activeSection }) => {
           <div className="lg:hidden flex items-center space-x-4">
             <div className="flex space-x-3 md:space-x-4">
               <motion.a
-                href="https://github.com/atul21mangla"
+                href="https://github.com/knightofkalki"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="GitHub"
